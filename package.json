@@ -9,7 +9,7 @@
     "authentication",
     "api"
   ],
-  "version": "3.0.2",
+  "version": "3.0.3",
   "author": "Domenic Denicola <domenic@domenicdenicola.com> (http://domenic.me/)",
   "license": "WTFPL",
   "repository": {
